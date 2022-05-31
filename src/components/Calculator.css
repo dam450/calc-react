@@ -41,7 +41,7 @@ button:active {
   background-color: var(--primary-color);
   border-radius: 1em;
   padding: 1em;
-  /* min-width: 350px; */
+  min-width: 350px;
 }
 
 .operators {
