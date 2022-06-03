@@ -13,11 +13,13 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" src="./img/calc.png" width="50%">
+  <a href="https://calc.dam450.dev/" target="_blank" > Veja o projeto em funcionamento clicando aqui.</a>
 </p>
 
 <p align="center">
- <a href="https://calc.dam450.dev/" > Veja o projeto funcionando clicando aqui.</a>
+  <a href="https://calc.dam450.dev/" target="_blank" >
+    <img alt="Preview" src="./img/calc.png" width="50%">
+  </a>  
 </p>
 
 ---
@@ -44,13 +46,13 @@ Uma calculadora básica, mas que utiliza os estados do React (useState).
 - Instale as dependências com `npm install`
 - Inicie o servidor com `npm run dev`
 
-Após os comandos, você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
+Após os comandos, você poderá acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
 ---
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo [LICENSE.md](./LICENSE.md) para mais detalhes.
 
 ---
 
