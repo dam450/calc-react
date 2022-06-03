@@ -13,14 +13,15 @@
 </p>
 
 <p align="center">
-  <a href="https://calc.dam450.dev/" target="_blank" > Veja o projeto em funcionamento clicando aqui.</a>
-</p>
-
-<p align="center">
   <a href="https://calc.dam450.dev/" target="_blank" >
     <img alt="Preview" src="./img/calc.png" width="50%">
   </a>  
 </p>
+
+<p align="center">
+Veja o projeto em funcionamento
+  <a href="https://calc.dam450.dev/" target="_blank" >clicando aqui.</a>
+</p><br />
 
 ---
 
