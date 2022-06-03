@@ -1,6 +1,8 @@
+#
+
 <h1 align="center">
-  <img alt="calc" title="Calculadora" src="./src/favicon.svg" width="32px"/> 
-  <br/>Calculadora
+  <img alt="calc" title="Calculadora" src="./src/favicon.svg" width="24px"/>
+  <span>&nbsp;Calculadora</span>
 </h1>
 
 <p align="center">
@@ -14,6 +16,12 @@
   <img alt="Preview" src="./img/calc.png" width="50%">
 </p>
 
+<p align="center">
+ <a href="https://calc.dam450.dev/" > Veja o projeto funcionando clicando aqui.</a>
+</p>
+
+---
+
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -22,9 +30,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [ViteJS](https://vitejs.dev/)
 - [Material UI](https://mui.com/pt/core/)
 
+---
+
 ## 💻 Projeto
 
-Uma calculadora básica.
+Uma calculadora básica, mas que utiliza os estados do React (useState).
+
+---
 
 ## 🚀 Como executar
 
@@ -34,9 +46,11 @@ Uma calculadora básica.
 
 Após os comandos, você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
+---
+
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENCE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 ---
 
