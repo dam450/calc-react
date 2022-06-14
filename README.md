@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://calc.dam450.dev/" target="_blank" >
-    <img alt="Preview" src="./img/calc.png" width="50%">
+    <img alt="Preview" src="./img/calc.png" width="30%">
   </a>  
 </p>
 
@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma calculadora básica, mas que utiliza os estados do React (useState).
+Uma calculadora básica, mas que utiliza o ```useState``` do React Hooks.
 
 ---
 
@@ -53,8 +53,8 @@ Após os comandos, você poderá acessar [`localhost:3000`](http://localhost:300
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Consulte o arquivo [LICENSE.md](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Consulte o arquivo [```LICENSE```](./LICENSE.md) para mais detalhes.
 
 ---
 
-Made by [Dam450](https://github.com/dam450/)
+Made by [```@Dam450```](https://github.com/dam450/)
